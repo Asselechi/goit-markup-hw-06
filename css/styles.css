@@ -812,6 +812,7 @@ body {
   margin-bottom: 12px;
 }
 .contact-form-field {
+  display: block;
   margin-bottom: 10px;
 }
 .contact-form-field:last-child {
@@ -827,6 +828,7 @@ body {
   color: #757575;
 }
 .contact-form-input-wrapper {
+  display: block;
   position: relative;
   margin-top: 4px;
 }
