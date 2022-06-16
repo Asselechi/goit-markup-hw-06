@@ -812,7 +812,7 @@ body {
   margin-bottom: 12px;
 }
 .contact-form-field {
-  display: block;
+  position: relative;
   margin-bottom: 10px;
 }
 .contact-form-field:last-child {
@@ -827,11 +827,10 @@ body {
   letter-spacing: 0.01em;
   color: #757575;
 }
-.contact-form-input-wrapper {
-  display: block;
+/* .contact-form-input-wrapper {
   position: relative;
   margin-top: 4px;
-}
+} */
 
 .contact-form-input {
   width: 100%;
@@ -847,7 +846,7 @@ body {
 }
 .contact-form-icon {
   position: absolute;
-  top: 50%;
+  top: 65%;
   left: 12px;
   transform: translateY(-50%);
   width: 18px;
